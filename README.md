@@ -39,7 +39,7 @@ hugo server -D
 
 The site will be available at `http://localhost:1313`
 
-## Project Structure TODO List
+## Project TODO List
 
 ### 1. Initial Hugo Setup
 - [ ] Create a new Hugo site:
@@ -104,11 +104,17 @@ The site will be available at `http://localhost:1313`
 - [ ] Create API documentation page structure
 - [ ] Set up blog listing and single post templates
 
-### 6. Design Implementation
+### 6. Design and Implementation
 - [ ] Review Figma design at https://www.figma.com/design/KVtINn6yZtnmhO2NgqEEI6/econic.ai
+- [ ] Redesign to a minimal responsive layout:
+  - [ ] Clean, flat design system with:
+    - Dark background
+    - A single primary and secondary color
+    - Font: Kreon and Life Saver
+  - [ ] Responsive breakpoints.
 - [ ] Break down design into components
-- [ ] Implement design system using Tailwind and SCSS
-- [ ] Create necessary Svelte components for interactive elements
+- [ ] Implement design using Tailwind and SCSS
+- [ ] Create placeholder Svelte components for interactive elements
 
 ## Development Guidelines
 
